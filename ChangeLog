@@ -1,0 +1,50 @@
+2008-02-09 John Elliott
+
+	* taptools-1.0.4 released.
+
+	* sna2tap: Naively converts a .SNA file to an autoloading .TAP file.
+
+	* tapls, tapsplit, tap2dsk: Recognise tape blocks created by SNA2TAP. 
+	Also fix an integer overflow issue on DOS systems with 16-bit integers.
+
+2008-03-18 John Elliott
+
+	* taptools-1.0.3 released.
+
+	* bin2bas: New program created to wrap a BASIC loader round a 
+	 binary blob.
+
+2008-03-16 Garry Lancaster
+
+	* specform, tapcat: -a option added to set load address.
+
+	* tapget: Various bugfixes.
+
+2007-06-28 John Elliott
+
+	* taptools-1.0.2 released.
+
+	* tap2dsk, mkp3fs: New utilities created to construct +3 disc images
+	 from scratch.
+
+2007-06-07 John Elliott
+
+	* tapsplit: It seems that on or about 2005-07-11, one Javier Herrera
+	 released a modified version of tapsplit but breached the GPL by not
+	 distributing source (see
+	 <1121094019.524192.7650@g43g2000cwa.googlegroups.com> ).
+	 Created tapsplit-1.0.1, which should be a suitable substitute and 
+	 can be distributed without fear of my armies of undead lawyers.
+
+2005-06-30 John Elliott
+
+	* taptools-1.0.0 released, comprising specform, unspecform,
+	tapcat, tapget, tapls and tapsplit.
+
+2000-06-10 John Elliott
+
+	* tapsplit-1.0.0 released.
+
+1996-12-14 John Elliott
+
+	* Earliest known tapcat source.
